@@ -61,6 +61,7 @@ class App extends Component {
         <p>
           Release Date: {item.release_date}
         </p>
+        <h6>Cited from The Movie Database</h6>
       </div>
     );
   }

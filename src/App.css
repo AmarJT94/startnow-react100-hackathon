@@ -45,10 +45,15 @@
 
 .bigBlueButton {
   width: 50%;
-  padding-top: 10%;
-  padding-bottom: 10%;
+  padding-top: 5%;
+  padding-bottom: 5%;
   font-size: 4.5vw;
   background-color: #206BC2;
+  border: 4px dashed white;
+}
+
+.bigBlueButton:hover {
+
 }
 
 @keyframes App-logo-spin {
